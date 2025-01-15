@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="94">
+    <author>Helfer B.</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Manure Heap, half sized</en>
+        <de>Misthaufen, halbe Größe</de>
+    </title>
+    <description>
+        <en><![CDATA[Dung heap which is half the size of the original, physical and storage wise.
+        
+        - Costs: 12.500$
+        - Storage: 2.000.000l]]></en>
+
+        <de><![CDATA[Misthaufen welcher halb so groß ist wie das Original, in der physischen Größe als auch im Platz.
+        
+        - Kosten: 12.500$
+        - Platz: 2.000.000l]]></de>
+    </description>
+    <multiplayer supported="true" />
+    <iconFilename>icon_manureHeap.dds</iconFilename>
+
+    <storeItems>
+        <storeItem xmlFilename="manureHeap.xml" />
+        <storeItem xmlFilename="manureHeapExtension.xml" />
+    </storeItems>
+
+</modDesc>
