@@ -11,5 +11,5 @@ Misthaufen welcher halb so groß ist wie das Original, in der physischen Größe
 - Platz: 2.000.000l
 
 # Screenshots
-![](https://i.ibb.co/SBtFNbh/Farming-Simulator2025-Game-2025-01-15-17-16-35.png)
-![](https://i.ibb.co/DY1DXbd/Farming-Simulator2025-Game-2025-01-15-17-17-38.png)
+![](https://i.postimg.cc/wq2GK7rz/Farming-Simulator2025-Game-2025-01-15-17-16-35.png)
+![](https://i.postimg.cc/9VXkdY4Q/Farming-Simulator2025-Game-2025-01-15-17-17-38.png)
